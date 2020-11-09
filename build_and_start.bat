@@ -1,0 +1,1 @@
+mvn clean install -DskipTests && mvn wildfly:run -DskipTests
